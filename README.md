@@ -10,7 +10,8 @@ into action.
 
 ## 🚀 What I'm Working On  
 
-As the co-founder of **KazaMind**, my focus is on:  
+As the co-founder of **KazaMind**, my focus is on:
+
 - **Empowering youth** to showcase their talents and prove to the  
   world that **we, as youth, are capable of remarkable achievements.**  
 - Building platforms and tools that amplify voices, spark innovation,  
@@ -20,6 +21,7 @@ As the co-founder of **KazaMind**, my focus is on:
 
 Our latest innovation, **KazaChat**, is an **AI-powered chatbot**  
 transforming research in the Middle East.  
+
 - **What it does:**  
   KazaChat helps researchers reduce their time spent searching for  
   information by making **inaccessible data accessible.**  
@@ -32,6 +34,7 @@ transforming research in the Middle East.
 ## 💡 A Bit About Me  
 
 I’m someone who:  
+
 - **Thinks big:** I love tackling complex challenges with creative  
   solutions.  
 - **Stays positive:** Even on the toughest days, you’ll find me with a  
@@ -53,7 +56,8 @@ I’m someone who:
 
 ## 🎯 My Mission  
 
-I’m on a journey to:  
+I’m on a journey to: 
+
 - **Empower youth** and create opportunities for the next generation.  
 - **Leverage technology** to solve real-world problems.  
 - **Build a legacy** of innovation, collaboration, and impact.  
