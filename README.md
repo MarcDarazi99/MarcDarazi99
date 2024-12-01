@@ -56,7 +56,7 @@ I’m someone who:
 
 ## 🎯 My Mission  
 
-I’m on a journey to: 
+I’m on a journey to:
 
 - **Empower youth** and create opportunities for the next generation.  
 - **Leverage technology** to solve real-world problems.  
